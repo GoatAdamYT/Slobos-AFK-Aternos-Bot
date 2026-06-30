@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "YingyangYT.aternos.me:26618",
+    "port": 26618,
     "version": "",
     "try-creative": false
   },
